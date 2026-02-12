@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Trilolabs-agency.framer.ai/sitemap.xml
